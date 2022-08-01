@@ -11,7 +11,7 @@ RUN pip install --upgrade pip
 # RUN pip install cmake-init
 # RUN pip install -U pip wheel cmake
 RUN sudo apt-get -y install cmake
-RUN > which cmake /usr/bin/cmake
+# RUN > which cmake /usr/bin/cmake
 RUN pip install dlib
 RUN pip install -r requirements.txt
 ENV TZ=Asia/Kolkata
