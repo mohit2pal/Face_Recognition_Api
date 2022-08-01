@@ -7,7 +7,7 @@ WORKDIR /face
 RUN apt-get update
 RUN pip install --upgrade pip
 
-RUN apt install build-essential
+RUN apt-get install build-essential
 RUN apt-get install manpages-dev
 
 RUN apt-get -y install cmake
