@@ -12,7 +12,6 @@ RUN apt-get install manpages-dev
 
 RUN apt-get -y install cmake
 RUN apt install -y libprotobuf-dev protobuf-compiler
-# RUN > which cmake /usr/bin/cmake
 RUN pip install cmake
 RUN pip install cmake-common
 RUN pip install cmake-init
