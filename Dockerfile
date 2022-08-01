@@ -10,7 +10,8 @@ RUN pip install --upgrade pip
 # RUN pip install cmake-common
 # RUN pip install cmake-init
 # RUN pip install -U pip wheel cmake
-RUN sudo apt-get -y install cmake
+RUN apt-get -y install cmake
+RUN apt install -y libprotobuf-dev protobuf-compiler
 # RUN > which cmake /usr/bin/cmake
 RUN pip install dlib
 RUN pip install -r requirements.txt
