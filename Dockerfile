@@ -10,6 +10,8 @@ RUN pip install --upgrade pip
 RUN apt-get install build-essential -y
 RUN apt-get install manpages-dev
 
+RUN apt-get install ffmpeg libsm6 libxext6  -y
+
 RUN apt-get -y install cmake
 RUN apt install -y libprotobuf-dev protobuf-compiler
 RUN pip install cmake
