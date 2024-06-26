@@ -1,1 +1,15 @@
-# Face_Recognition
+![Research Paper Image](Research/SA00080_final_PDF_page-0001.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-0002.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-0003.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-0004.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-0005.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-0006.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-0007.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-0008.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-0009.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-00010.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-00011.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-00012.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-00013.jpg)
+![Research Paper Image](path/to/SA00080_final_PDF_page-00014.jpg)
+
