@@ -1,1 +1,0 @@
-Reasearch Paper Contents
